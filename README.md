@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my own projects<br>👯 I’m looking to collaborate on any project<br>🤝 I’m looking for help with learning Spanish<br>🌱 I’m currently learning data structures<br>💬 Ask me about software things<br>
+🔭 I’m currently working on skillhob.coms<br>👯 I’m looking to collaborate on any project<br>🤝 I’m looking for help with learning Spanish<br>🌱 I’m currently learning data structures<br>💬 Ask me about software things<br>
 
 
 ## 🌐 Socials:
